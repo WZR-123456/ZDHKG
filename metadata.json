@@ -1,0 +1,6 @@
+{
+  "name": "招工文案生成器",
+  "description": "本地离线模板与智能 AI 融合的真实招工文案生成改写软件，100%符合基层招工标准，提供12种宣传风格及同城引流、合规检测特性。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
